@@ -22,7 +22,9 @@ body {
   flex-direction: column;
 }
 
-.page .container {}
+.page .container {
+  padding: 85px 0;
+}
 
 .page .container .header {
   text-align: center;
